@@ -33,7 +33,7 @@ desktop-image: "wallpaper.png"
 	
 	left = 75%
 	top = 82%
-	text = "Silksong release date in %d"	
+	text = "Silksong DLC release date in %d"	
 	align = "center"
 	font = "Trajan Pro Bold 12"
 	color = "white"
